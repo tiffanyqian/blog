@@ -277,9 +277,20 @@ PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
+  activesupport
+  concurrent-ruby
+  faraday
+  faraday-net_http
   github-pages
+  i18n
   jekyll
+  json
+  logger
   minimal-mistakes-jekyll
+  minitest
+  rexml
+  uri
+  webrick
 
 BUNDLED WITH
    2.5.21

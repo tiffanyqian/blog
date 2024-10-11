@@ -15,6 +15,17 @@ gem "github-pages", group: :jekyll_plugins
 
 gem "jekyll"
 gem "minimal-mistakes-jekyll"
+gem "webrick"
+gem "i18n"
+gem "rexml"
+gem "concurrent-ruby"
+gem "faraday"
+gem "activesupport"
+gem "faraday-net_http"
+gem "json"
+gem "logger"
+gem "minitest"
+gem "uri"
 
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
