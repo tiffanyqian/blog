@@ -14,6 +14,7 @@ gem "github-pages", "~> 232", group: :jekyll_plugins
 # To upgrade, run `bundle update`.
 
 gem "jekyll", "~> 3.10.0"
+gem "minimal-mistakes-jekyll"
 gem "webrick"
 gem "i18n"
 gem "rexml"
