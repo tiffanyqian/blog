@@ -12,13 +12,13 @@
 
 theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : ";)"
-title_separator          : "-"
+title                    : "Tiffany Qian"
+title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Tiffany Qian"
 description              : "Yap Central."
@@ -26,8 +26,8 @@ url                      : "https://tiffanyqian.github.io"
 baseurl                  : "/blog"
 repository               : "tiffanyqian/blog"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+logo                     : "/assets/images/inverted_thamartia_block_logo.png"
+masthead_title           : " "
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
@@ -115,9 +115,9 @@ analytics:
 author:
   name             : "Tiffany Qian"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "O_o"
-  location         : "Somewhere"
-  email            :
+  bio              : "对牛弹琴"
+  location         : "San Francisco"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -133,7 +133,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/tiffanyqian"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -149,7 +149,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: https://github.com/tiffanyqian/
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -158,13 +158,15 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      # url: http://instagram.com/thamartia/
 
 
 # Reading Files
 include:
   - .htaccess
   - _pages
+  - _newsletters
+  - _art-collection
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -309,6 +311,13 @@ compress_html:
   ignore:
     envs: development
 
+collections:
+  art:
+    output: true
+    permalink: /:collection/:path/
+  newsletters:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -320,6 +329,26 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      show_date: true
+      comments: false
       share: true
       related: true
+  # _newsletters
+  - scope:
+      path: ""
+      type: newsletters
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: true
+      sidebar:
+        nav: "newsletters"
+  # _art
+  - scope:
+      path: ""
+      type: art
+    values:
+      layout: single
+      sidebar:
+        nav: "art"
