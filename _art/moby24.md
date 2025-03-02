@@ -1,7 +1,7 @@
 ---
 title: "2024 MOBY Zine"
 header:
-  teaser: /assets/images/art/moby_th.jpg
+  teaser: /assets/images/art/MOBY_th.jpg
 layout: single
 permalink: art/moby24.html
 sidebar:
