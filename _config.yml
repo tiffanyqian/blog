@@ -116,7 +116,7 @@ author:
   name             : "Tiffany Qian"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "对牛弹琴"
-  location         : "San Francisco"
+  location         : # "San Francisco"
   email            : 
   links:
     - label: "Email"
