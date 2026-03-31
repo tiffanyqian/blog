@@ -27,9 +27,6 @@ gem "logger"
 gem "minitest"
 gem "uri"
 
-uses: ruby/setup-ruby@086ffb1a2090c870a3f881cc91ea83aa4243d408 # v1.195.0
-
-
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
 #   gem "jekyll-sitemap"
