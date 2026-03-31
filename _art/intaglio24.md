@@ -4,8 +4,6 @@ header:
   teaser: /assets/images/art/intaglio_th.png
 layout: single
 permalink: art/intaglio24.html
-sidebar:
-  nav: "art"
 gallery:
   - url: /assets/images/art/intaglio_final.gif
     image_path: /assets/images/art/intaglio_final.gif

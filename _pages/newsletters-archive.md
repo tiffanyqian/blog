@@ -7,8 +7,8 @@ entries_layout: list
 classes: wide
 sidebar:
   - title: "ʕ♥ᴥ♥ʔ"
-    text: "super ultra secret newsletters archive for your eyes only!<br><br>(totally not super accessible via github)"
-sort_by: order
+    text: "super-ultra-secret tiffany updates & newsletters for your eyes only!"
+sort_by: date
 sort_order: reverse
 ---
 

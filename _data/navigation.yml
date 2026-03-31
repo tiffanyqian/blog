@@ -1,11 +1,13 @@
 # main links
 main:
-  - title: "Art"
+  - title: "art"
     url: /art/
-  - title: "Posts"
-    url: /year-archive/
-  # - title: "Newsletters"
-  #   url: /newsletters/
+  - title: "posts"
+    url: /posts/
+  - title: "✪"
+    url: /newsletters/
+  - title: "about figs?"
+    url: /about-figs/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

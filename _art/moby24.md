@@ -4,8 +4,6 @@ header:
   teaser: /assets/images/art/MOBY_th.jpg
 layout: single
 permalink: art/moby24.html
-sidebar:
-  nav: "art"
 gallery:
   - url: /assets/images/art/MOBY_0000.jpg
     image_path: /assets/images/art/MOBY_0000.jpg

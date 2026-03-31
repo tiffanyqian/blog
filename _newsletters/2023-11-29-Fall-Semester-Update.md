@@ -5,6 +5,7 @@ search: false
 permalink: newsletters/fallsem23.html
 sidebar:
   nav: "newsletters"
+breadcrumbs: true
 toc: true
 toc_label: "Fall 2023"
 toc_icon: "seedling" # uses Font Awesome Icons
