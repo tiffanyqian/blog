@@ -1,7 +1,7 @@
 ---
 title: "why figs?"
 layout: single
-permalink: /about-figs
+permalink: /about-figs.html
 ---
 
 [1] the wasp and the fruit
