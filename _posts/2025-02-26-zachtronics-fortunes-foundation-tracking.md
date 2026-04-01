@@ -2,6 +2,7 @@
 title: "Zachtronics Fortune's Foundation - Data Collection"
 breadcrumbs: true
 permalink: /20250226-zachtronics-data-collection.html
+last_modified_at: 2026-03-30
 tags:
     - bigdata
 ---
