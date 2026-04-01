@@ -19,7 +19,7 @@ gallery:
     title: "March 2026"
 ---
 
-2026 Q1 Life Updates!! I mean that in the most ironic but also sad corproate-slop way possible.
+2026 Q1 Life Updates!! I mean that in the most ironic but also sad corporate-slop way possible.
 
 It's been a skiing-heavy start to the year & lots of friend visiting SF- but I've also had a lot of accidents, sicknesses, and overtime work. Ups and downs, as always. In an attempt to share more of the fun pictures I take and the joys in my life while breaking free of Instagram, I've decided to scrapbook some of my highlights from each month. Enjoy!
 
