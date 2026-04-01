@@ -1,7 +1,7 @@
 ---
 title: "Zachtronics Fortune's Foundation - Data Collection"
 breadcrumbs: true
-permalink: /zachtronics-data-collection.html
+permalink: /20250226-zachtronics-data-collection.html
 tags:
     - bigdata
 ---

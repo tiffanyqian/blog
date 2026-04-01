@@ -3,6 +3,7 @@ title: "Books and Reviews - 2026 Q1"
 breadcrumbs: true
 permalink: /2026-q1-book-reviews.html
 tags:
+    - book reviews
     - reading
     - opinions
 ---

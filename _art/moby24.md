@@ -3,7 +3,11 @@ title: "2024 MOBY Zine"
 header:
   teaser: /assets/images/art/MOBY_th.jpg
 layout: single
-permalink: art/moby24.html
+permalink: art/2024-moby.html
+tags:
+  - art
+  - zine
+  - engineering
 gallery:
   - url: /assets/images/art/MOBY_0000.jpg
     image_path: /assets/images/art/MOBY_0000.jpg

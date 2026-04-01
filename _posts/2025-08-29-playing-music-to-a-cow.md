@@ -1,7 +1,7 @@
 ---
 title: "对牛弹琴 - playing music to a cow"
 breadcrumbs: true
-permalink: /playing-music-to-a-cow.html
+permalink: /20250829-playing-music-to-a-cow.html
 tags:
     - ramblings
     - silly

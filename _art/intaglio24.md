@@ -3,7 +3,10 @@ title: "2024 Intaglio Printmaking"
 header:
   teaser: /assets/images/art/intaglio_th.png
 layout: single
-permalink: art/intaglio24.html
+permalink: art/2024-intaglio.html
+tags:
+  - art
+  - printmaking
 gallery:
   - url: /assets/images/art/intaglio_final.gif
     image_path: /assets/images/art/intaglio_final.gif

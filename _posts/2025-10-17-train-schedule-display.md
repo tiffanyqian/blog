@@ -1,10 +1,11 @@
 ---
 title: "Train Schedule Display"
 breadcrumbs: true
-permalink: /train-schedule-display.html
+permalink: /20251017-train-schedule-display.html
 tags:
     - project
     - coding
+    - tutorial
     - transit
 ---
 

@@ -2,7 +2,7 @@
 title: "2023 Fall Semester Update"
 layout: single
 search: false
-permalink: newsletters/fallsem23.html
+permalink: newsletters/2023-fallsem.html
 sidebar:
   nav: "newsletters"
 breadcrumbs: true

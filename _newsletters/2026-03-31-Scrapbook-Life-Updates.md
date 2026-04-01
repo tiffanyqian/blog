@@ -2,7 +2,7 @@
 title: "2026 Jan-Mar Life Updates"
 layout: single
 search: false
-permalink: newsletters/life-updates-q1-26.html
+permalink: newsletters/2026-q1-life-updates.html
 breadcrumbs: true
 gallery:
   - url: /assets/images/newsletters/life26/jan26.jpg
