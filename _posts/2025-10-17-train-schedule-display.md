@@ -5,7 +5,8 @@ permalink: /20251017-train-schedule-display.html
 tags:
     - project
     - coding
-    - tutorial
+    - how-to
+    - engineering
     - transit
 ---
 
@@ -48,6 +49,7 @@ The main code can be seen [here](#full-code).
 #### Errors & Future Updates
 
 I had a lot of ambitions and had a lot of them shot down due to hardware or software limitations. Sucks, but that's life. Here are some of my grievances and future to-dos:
+- I want to build a case for this- TBD if I want to 3D print it or cut it out of wood...
 - The colors didn't match as closely as I wanted to, unavoidable unfortunately.
 - I wanted to have scrolling images or other fun things in-between the MUNI and Caltrain screens using a BitMap pixel drawing, but I ran into memory issues with that... so it was scrapped (for now).
 - I wanted to implement an overnight shut-off that would, based on call request time, stop making requests between 1 AM and 6 AM (since MUNI / Caltrain doesn't run during this time ) unless a side button was pressed. This semi-works, but fails here and there and I need to do some further debugging.
