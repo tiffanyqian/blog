@@ -60,7 +60,7 @@ I had a lot of ambitions and had a lot of them shot down due to hardware or soft
 #### Final Thoughts / Product
 Currently, as I'm writing this on 03/30/2026, the code is in a weird position. It runs just fine, but may need to be restarted every once in a while due to memory allocation weirdness. Blargh. I'll turn it occasionally when I have people over and they need to take the bus, and it still looks pretty cool:
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/tsd.gif" alt="Transit Schedule Display">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/tsd.gif" alt="Transit Schedule Display">
 
 Here's the code- good luck! One day I will get around to making this readable / workable.
 
