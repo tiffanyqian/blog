@@ -1,14 +1,14 @@
 ---
 title: "Books and Reviews - 2026 Q1"
 breadcrumbs: true
-permalink: /2026-q1-book-reviews.html
+permalink: /20260330-q1-book-reviews.html
 tags:
     - book reviews
     - reading
     - opinions
 ---
 
-I've read a lot at the start of this year! Yippee literacy! Shout out StoryGraph, you are the coolest thing ever- man do I love data collection.
+I've read a lot at the start of this year! Yippee literacy! Shout out StoryGraph, you are the coolest thing ever. I love data collection.
 
 Anyways- in an attempt to regain creativity and my ability to better communicate my feelings/thoughts outside of "vibes", I have been really trying to critically reflect on what I consume entertainment wise. On the reading side, this has resulted in writing book reviews! Here's what I've read / reread in Jan-March of 2026 so far:
 
