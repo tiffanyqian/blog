@@ -5,6 +5,7 @@ permalink: /20250829-playing-music-to-a-cow.html
 tags:
     - ramblings
     - silly
+categories: posts
 ---
 
 "对牛弹琴" (duì niú tán qín) is probably one of my favorite Chinese idioms / ChengYu of all-time. Quite literally, it translates to "playing music to a cow". Historically, the "琴" (qín) in this phrase is the Guqin (古琴), a traditional Chinese string instrument. However, many modern translations (including the one I originally learned) tend to translate the "琴" (qín) to piano, as the Chinese word for piano is 钢琴 (gāng _qín_) and shares the same last character[^1].

@@ -5,6 +5,8 @@ permalink: /20250226-zachtronics-data-collection.html
 last_modified_at: 2026-03-30
 tags:
     - bigdata
+    - puzzles
+categories: posts
 ---
 
 As you all know, I love solitaire and minesweeper so much that my favorite games are modified versions of them. Zachtronics has a bunch of solitaire variants, and one of my favorites is Fortune's Foundation. It's "fortress style solitaire" that has another suit made of the Major Arcana tarot cards. I call it tarot solitaire!

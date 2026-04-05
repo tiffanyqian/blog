@@ -8,6 +8,7 @@ tags:
     - how-to
     - engineering
     - transit
+categories: posts
 ---
 
 public transportation lovers wya!!

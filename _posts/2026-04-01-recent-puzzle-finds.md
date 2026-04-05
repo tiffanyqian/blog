@@ -6,6 +6,7 @@ tags:
     - games
     - puzzles
     - opinions
+categories: posts
 ---
 
 They're always asking me "do you have games on your phone" but they're never asking me "HOW are the games on your phone"!! The answer: it's puzzles all the way down. Aside from NYT games, ken-ken's, and zachtronics solitaire, I've found some other fun puzzles lately that I wanted to share!

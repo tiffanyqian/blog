@@ -6,6 +6,7 @@ tags:
     - book reviews
     - reading
     - opinions
+categories: posts
 ---
 
 I've read a lot at the start of this year! Yippee literacy! Shout out StoryGraph, you are the coolest thing ever. I love data collection.
