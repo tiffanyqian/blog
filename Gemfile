@@ -26,6 +26,7 @@ gem "json"
 gem "logger"
 gem "minitest"
 gem "uri"
+gem "jekyll-paginate-v2"
 
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
