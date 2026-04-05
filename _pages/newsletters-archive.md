@@ -1,5 +1,5 @@
 ---
-title: "Newsletters Collection"
+title: "Newsletters"
 layout: collection
 permalink: /newsletters/
 collection: newsletters
