@@ -3,8 +3,6 @@ title: "2023 Fall Semester Update"
 layout: single
 search: false
 permalink: newsletters/2023-fallsem.html
-sidebar:
-  nav: "newsletters"
 breadcrumbs: true
 toc: true
 toc_label: "Fall 2023"

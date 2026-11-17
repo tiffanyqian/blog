@@ -345,8 +345,6 @@ defaults:
       author_profile: false
       read_time: false
       comments: true
-      sidebar:
-        nav: "newsletters"
   # _art
   - scope:
       path: ""
